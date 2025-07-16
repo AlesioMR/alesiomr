@@ -31,7 +31,6 @@ I also have a background in **web development** and **graphic design**, allowing
 `Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `Cisco Networking` • `Firewall Management`
 
 
-**Skills:** PHP / Python / HTML / CSS / JS / Laravel / WordPress / MyBB / MySQL / SQLite / Postgres / AWS / Linux / Nginx / Apache / Network Security / Bug Bounty
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alesio-mara-73745a228/) or alesiomr@outlook.com
 
