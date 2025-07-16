@@ -2,7 +2,7 @@
 #### I am an IT Specialist and System Administrator!
 ## My blog is here: 
 
-I'm an IT Specialist with 3+ years of experience managing business systems, including servers, hardware, and software. Currently working at **AlbacoShoes** in Tiranë, I handle everything from network security to server management.
+I'm an IT Specialist with 3+ years of experience managing business systems, including servers, hardware, and software. 
 
 I have been part of cyber security exercises like **AKCESK Cyber Exercise 2021** on Cyber Ranges. I also enjoy learning through platforms like **Hack The Box** and exploring bug bounty programs to help secure digital infrastructure.
 
