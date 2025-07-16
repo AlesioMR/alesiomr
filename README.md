@@ -1,10 +1,7 @@
-### Hi there 👋, my name is Alesio || ~ alesiomr
-#### I am an IT Specialist and System Administrator!
-## My blog is here: 
 
 ### Hi there 👋, I'm Alesio || ~ alesiomr
-#### IT Specialist • System Administrator • Cybersecurity Enthusiast
-🌐 https://alesio.online
+#### IT Specialist • System Administrator
+🌐 
 
 ---
 
