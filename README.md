@@ -2,11 +2,37 @@
 #### I am an IT Specialist and System Administrator!
 ## My blog is here: 
 
-I'm an IT Specialist with 3+ years of experience managing business systems, including servers, hardware, and software. 
+### Hi there 👋, I'm Alesio || ~ alesiomr
+#### IT Specialist • System Administrator • Cybersecurity Enthusiast
+🌐 https://alesio.online
 
-I have been part of cyber security exercises like **AKCESK Cyber Exercise 2021** on Cyber Ranges. I also enjoy learning through platforms like **Hack The Box** and exploring bug bounty programs to help secure digital infrastructure.
+---
 
-Things I enjoy include setting up and maintaining IT infrastructures, web development with PHP and Laravel, CMS like WordPress and MyBB, and network tools such as VMware ESXi and Cisco. I'm passionate about optimizing and securing systems while constantly learning new technologies.
+I'm an IT Specialist with over 3 years of hands-on experience managing business systems — including servers, networks, hardware and software infrastructure. Over the years, I've built strong skills in system administration, automation, and IT security, and I enjoy helping organizations maintain stable and secure digital environments.
+
+Outside of work, I actively explore cybersecurity by participating in platforms like **TryHackMe** and **Hack The Box**. Through these, I've honed my penetration testing skills in areas such as web, Android, and Windows environments, helping uncover and fix security vulnerabilities.
+
+I also have a background in **web development** and **graphic design**, allowing me to blend technical expertise with creativity when building and securing digital projects. Whether it's setting up servers, writing PHP code, or designing a sleek user interface.
+
+---
+
+### 🛠 Tech Stack & Tools:
+
+**Languages & Frameworks**  
+`PHP` • `Python` • `JavaScript` • `HTML/CSS` • `Laravel` • `Bootstrap`
+
+**CMS & Platforms**  
+`WordPress` • `MyBB` • `Laravel`
+
+**DevOps & SysAdmin**  
+`Linux` • `Nginx` • `Apache` • `VMware ESXi` • `AWS`
+
+**Databases**  
+`MySQL` • `PostgreSQL` • `SQLite`
+
+**Cybersecurity & Networking**  
+`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `Cisco Networking` • `Firewall Management`
+
 
 **Skills:** PHP / Python / HTML / CSS / JS / Laravel / WordPress / MyBB / MySQL / SQLite / Postgres / AWS / Linux / Nginx / Apache / Network Security / Bug Bounty
 
