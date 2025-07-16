@@ -11,24 +11,6 @@ Outside of work, I actively explore cybersecurity by participating in platforms 
 
 I also have a background in **web development** and **graphic design**, allowing me to blend technical expertise with creativity when building and securing digital projects. Whether it's setting up servers, writing PHP code, or designing a sleek user interface.
 
----
-
-### 🛠 Tech Stack & Tools:
-
-**Languages & Frameworks**  
-`PHP` • `Python` • `JavaScript` • `HTML/CSS` • `Laravel` • `Bootstrap`
-
-**CMS & Platforms**  
-`WordPress` • `MyBB` • `Laravel`
-
-**DevOps & SysAdmin**  
-`Linux` • `Nginx` • `Apache` • `VMware ESXi` • `AWS`
-
-**Databases**  
-`MySQL` • `PostgreSQL` • `SQLite`
-
-**Cybersecurity & Networking**  
-`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `Cisco Networking` • `Firewall Management`
 
 
 
