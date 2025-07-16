@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alesio || ~ alesiomr
 #### I am an IT Specialist and System Administrator!
-## My blog is here: https://alesio.online
+## My blog is here: 
 
 I'm an IT Specialist with 3+ years of experience managing business systems, including servers, hardware, and software. Currently working at **AlbacoShoes** in Tiranë, I handle everything from network security to server management.
 
@@ -10,7 +10,7 @@ Things I enjoy include setting up and maintaining IT infrastructures, web develo
 
 **Skills:** PHP / Python / HTML / CSS / JS / Laravel / WordPress / MyBB / MySQL / SQLite / Postgres / AWS / Linux / Nginx / Apache / Network Security / Bug Bounty
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alesio-mara-73745a228/) or alesiomara2000@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alesio-mara-73745a228/) or alesiomr@outlook.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alesiomr)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alesio-mara-73745a228/)
