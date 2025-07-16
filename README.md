@@ -27,7 +27,7 @@ Things I enjoy include setting up and maintaining IT infrastructures, web develo
   <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://httpd.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-plain.svg" alt="cisco" width="40" height="40"/></a>
+  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-256.png" alt="cisco" width="40" height="40"/></a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alesiomr&show_icons=true)  
