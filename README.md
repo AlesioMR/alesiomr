@@ -1,11 +1,10 @@
 
-### Hi there 👋, I'm Alesio || ~ alesiomr
-#### IT Specialist • System Administrator
-🌐 
+### Hi there 👋, I'm Alesio || ~ ZERO 🌐
+#### IT Specialist • System Administrator  
 
 ---
 
-I'm an IT Specialist with over 3 years of hands-on experience managing business systems — including servers, networks, hardware and software infrastructure. Over the years, I've built strong skills in system administration, automation, and IT security, and I enjoy helping organizations maintain stable and secure digital environments.
+I'm an IT Specialist with over 3 years of  experience managing business systems — including servers, networks, hardware and software infrastructure. Over the years, I've built strong skills in system administration, automation, and IT security, and I enjoy helping organizations maintain stable and secure digital environments.
 
 Outside of work, I actively explore cybersecurity by participating in platforms like **TryHackMe** and **Hack The Box**. Through these, I've honed my penetration testing skills in areas such as web, Android, and Windows environments, helping uncover and fix security vulnerabilities.
 
