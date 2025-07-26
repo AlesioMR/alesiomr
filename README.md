@@ -6,7 +6,7 @@
 
 I'm an IT Specialist with over 3 years of  experience managing business systems — including servers, networks, hardware and software infrastructure. Over the years, I've built strong skills in system administration, automation, and IT security, and I enjoy helping organizations maintain stable and secure digital environments.
 
-Outside of work, I actively explore cybersecurity by participating in platforms like **TryHackMe** and **Hack The Box**. Through these, I've honed my penetration testing skills in areas such as web, Android, and Windows environments, helping uncover and fix security vulnerabilities.
+Outside of work, I explore cybersecurity by participating in platforms like TryHackMe and Hack The Box. Through these, I have increased my penetration testing skills in areas such as web, Android, and Windows environments, helping to uncover and fix security vulnerabilities.
 
 I also have a background in **web development** and **graphic design**, allowing me to blend technical expertise with creativity when building and securing digital projects. Whether it's setting up servers, writing PHP code, or designing a sleek user interface.
 
@@ -16,7 +16,7 @@ I also have a background in **web development** and **graphic design**, allowing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alesio-mara-73745a228/) or alesiomr@outlook.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alesiomr)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alesio-mara-73745a228/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesio-mara-73745a228/)](https://www.linkedin.com/in/alesio-mara-73745a228/)
 
 ---
 
