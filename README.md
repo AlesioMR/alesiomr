@@ -1,5 +1,5 @@
-<div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FE914&width=435&lines=.%2Fwhoami+%E2%9A%A1;%23+ZEED+%F0%9F%91%81%EF%B8%8F%E2%83%A4)](https://git.io/typing-svg)
+<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU2ZWloeGlrcmd2dmJlZnY5YmFjMXd5dnJ2NnFyOW1pbHp0MXJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYLoPRwqwzkYJ1e/giphy.gif" alt="Matrix digital rain" width="100%" />
   <h1>👋 Hi, I'm <strong>Alesio Mara</strong> (<span style="color:#7CFC00">ZeeD</span>)</h1>
   <p>👑 Cyber Security 👑 • IT Support & Systems Admin • Web & Graphic Designer</p>
