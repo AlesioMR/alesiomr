@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU2ZWloeGlrcmd2dmJlZnY5YmFjMXd5dnJ2NnFyOW1pbHp0MXJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYLoPRwqwzkYJ1e/giphy.gif" alt="Matrix digital rain" width="100%" />
   <h1>👋 Hi, I'm <strong>Alesio Mara</strong> (<span style="color:#7CFC00">ZeeD</span>)</h1>
-  <p>Cybersecurity enthusiast, systems specialist, and hacker-style creator with a neon pulse.</p>
+  <p>👑 Cyber Security 👑 • IT Support & Systems Admin • Web & Graphic Designer</p>
 </div>
 
 ---
@@ -28,7 +28,7 @@ I actively improve my skills through practical labs, CTF challenges, and securit
 ### Current Focus
 
 * 🌐 Web Application Security
-* 🪟 Windows Security
+* 🔐 Windows Security
 * 🤖 Android Security
 * 🔍 Vulnerability Assessment
 * ⚔️ Penetration Testing
